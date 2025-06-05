@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Arjun Nurdin! ![](https://komarev.com/ghpvc/?username=AgungDev)
 
 🎯 **INFJ | Problem Solver | Lifelong Learner**
+
 💼 Tech Lead & Full Stack Developer | Network & Linux Enthusiast
+
 💬 Passionate in building real-world solutions and optimizing systems with efficient code.
 
 ---
