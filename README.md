@@ -23,6 +23,11 @@
 
 ---
 
+![GitHub activity graph](./github-metrics.svg)
+
+---
+
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgungDev&theme=dark&hide_border=false&count_private=true)
 
