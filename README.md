@@ -18,7 +18,11 @@ Passionate in building real-world solutions and optimizing systems with efficien
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Web](https://img.shields.io/badge/Web%20Developer-4285F4?style=for-the-badge&logo=html5&logoColor=white)
+![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Networking](https://img.shields.io/badge/Network_Engineer-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
 
