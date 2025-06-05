@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Agung Dev! ![](https://komarev.com/ghpvc/?username=AgungDev)
+# 👋 Hi, I’m Arjun Nurdin! ![](https://komarev.com/ghpvc/?username=AgungDev)
 
-📍 Indonesia  
-🧑‍💻 Full Stack Developer | Problem Solver | Fast Learner  
-🧠 INFJ - The Advocate Personality  
-🚀 Passionate about: Golang, Laravel, Flutter, Networking, and Agile/Scrum  
+🎯 **INFJ | Problem Solver | Lifelong Learner**
+💼 Tech Lead & Full Stack Developer | Network & Linux Enthusiast
+💬 Passionate in building real-world solutions and optimizing systems with efficient code.
 
 ---
 
@@ -22,6 +21,22 @@
 ![Networking](https://img.shields.io/badge/Network_Engineer-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
+
+### 📌 About Me
+
+I love solving complex problems with simple and scalable solutions.
+Currently building **"Try To Schedule"**, a smart to-do platform with 2-way sync and offline-first design.
+I work across platforms—**Desktop**, **Mobile**, and **Web**—and love creating systems that just work.
+Also active on Telegram: [t.me/arjun\_nurdin](https://t.me/arjun_nurdin)
+
+---
+
+### 📚 Interests
+
+* Software Architecture & Maintainable Code
+* Networking & Linux System Administration
+* Human-centered Product Design
+* AI & Real-time Applications
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgungDev&theme=dark&hide_border=false&count_private=true)
