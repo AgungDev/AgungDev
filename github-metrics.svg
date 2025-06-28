@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="401" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="582" class="">
     <defs>
         <style/>
     </defs>
@@ -58,6 +58,54 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">AgungDev/trytoschedule_desktop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8956777</div>
+                                        <div class="message">[Frontend] Time Guard</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6c1a5d</div>
+                                        <div class="message">[NEW] Time Guard Rule</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18bbcfb</div>
+                                        <div class="message">[UI] Todolist</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98e5915</div>
+                                        <div class="message">[UI] Langguage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cc3464</div>
+                                        <div class="message">[UI] Bugs Langguage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44771e3</div>
+                                        <div class="message">[BE] Move label to todolist</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#971d036</div>
+                                        <div class="message">[UI] Logo Changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd06b6f</div>
+                                        <div class="message">[UI] Colored Navigation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
