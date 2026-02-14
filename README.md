@@ -45,8 +45,6 @@ Also active on Telegram: [t.me/arjun\_nurdin](https://t.me/arjun_nurdin)
 * AI & Real-time Applications
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgungDev&theme=dark&hide_border=false&count_private=true)
-
 ![GitHub activity graph](./github-metrics.svg)
 
 ![Snake animation](https://github.com/AgungDev/AgungDev/blob/output/github-contribution-grid-snake.svg)
